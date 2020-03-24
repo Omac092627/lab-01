@@ -1,0 +1,106 @@
+#first{
+    position: top;
+}
+#second{
+    float: left;
+}
+#third{
+    float: left;
+}
+#fourth{
+    float: left;
+    margin-right: 30%;
+}
+#fifth{
+    float: left;
+}
+#sixth{
+    float: left;
+}
+#seventh{
+    float: left;
+}
+#eighth{
+    float: left;
+}
+#ninth{
+    float: left;
+}
+
+@media (min-width: 960px) {
+    #first{
+        width: 960px;
+        height: 100px;
+    }
+    #firstA{
+        margin-left: 480px;
+        margin-top: 50px;
+    }
+
+    #second{
+        width: 200px;
+        height: 600px;
+    }
+    #secondB{
+        margin-left: 100px;
+        margin-top: 300px;
+    }
+
+    #third{
+        width: 380px;
+        height: 200px;
+    }
+    #thirdC{
+        margin-left: 180px;
+        margin-top: 100px;
+    }
+    #fourth{
+        width: 380px;
+        height: 200px;
+    }
+    #fourthD{
+        margin-left: 180px;
+        margin-top: 100px;
+    }
+    #fifth{
+        width: 190px;
+        height: 250px;
+    }
+    #fifthE{
+        margin-left: 95px;
+        margin-top: 125px;
+    }
+    #sixth{
+        width: 190px;
+        height: 250px;
+    }
+    #sixthF{
+        margin-left: 95px;
+        margin-top: 125px;
+    }
+    #seventh{
+        width: 190px;
+        height: 250px;
+    }
+    #seventhG{
+        margin-left: 95px;
+        margin-top: 125px;
+    }
+    #eighth{
+        width: 190px;
+        height: 250px;
+    }
+    #eighthH{
+        margin-left: 95px;
+        margin-top: 125px;
+    }
+    #ninth{
+        width: 760px;
+        height: 150px;
+    }
+    #ninthI{
+        margin-left: 380px;
+        margin-top: 75px;
+    }
+  }
+
