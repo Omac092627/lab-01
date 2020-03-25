@@ -1,5 +1,6 @@
 #first{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 480px;
     height: 75px;
 }
@@ -9,6 +10,7 @@
 }
 #second{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 480px;
     height: 75px;
 }
@@ -18,6 +20,7 @@
 }
 #third{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 480px;
     height: 125px;
 }
@@ -27,6 +30,7 @@
 }
 #fourth{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 480px;
     height: 125px;
 }
@@ -36,6 +40,7 @@
 }
 #fifth{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 240px;
     height: 250px;
 }
@@ -45,6 +50,7 @@
 }
 #sixth{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 240px;
     height: 250px;
 }
@@ -54,6 +60,7 @@
 }
 #seventh{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 240px;
     height: 250px;
 }
@@ -63,6 +70,7 @@
 }
 #eighth{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 240px;
     height: 250px;
 }
@@ -72,6 +80,7 @@
 }
 #ninth{
     border: 1px solid black;
+    box-sizing: border-box;
     width: 480px;
     height: 80px;
 }
